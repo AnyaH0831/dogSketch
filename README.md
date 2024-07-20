@@ -1,2 +1,3 @@
 This is a README file for this sketch. 
-This dog's name is Caramel, say hi to Caramel!!!
+
+It took a total of 9 hours to complete a sketch of this dog. 
