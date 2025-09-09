@@ -5,3 +5,5 @@ It took a total of 9 hours to complete a sketch of this dog.
 Her name is Caramel, and she's a mixed breed of 1/2 German Shepherd, 1/4 Border Collie, and 1/4 Husky.
 
 Each commit of the image files is a separate session. 
+
+![Dog](https://github.com/user-attachments/assets/c68301b9-ea2b-490f-bd7e-e057efe54005)
